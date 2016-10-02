@@ -1,0 +1,14 @@
+Tytuł: Projektowanie Interakcji
+
+Narysować interfejs potrafi każdy pingwin. Jednak nie każdy leming potrafi z takiego interfejsu skorzystać.
+
+Zaprojektowanie przejrzystego i zrozumiałego dla użytkownika interfejsu może się wydawać zadaniem łatwym. Jednakże konfrontacja oczekiwań z zachowaniem prawdziwych użytkowników niejednokrotnie przynosi rozczarowanie. A przecież to właśnie dla nich tworzymy.
+
+Podczas warsztatów nauczymy się:
+
+Budować prototyp interfejsu użytkownika
+Oceniać interfejs metodą ewaluacji heurystycznej
+Testować używalność interfejsu z udziałem użytkowników
+Prototypować będziemy na papierze. Komputery nie będą potrzebne.
+
+Czas 1h 30m
